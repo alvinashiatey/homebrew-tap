@@ -1,4 +1,4 @@
-cask "R110" do
+cask "r110" do
   version "0.1.0"
   sha256 "57744f926aaf472f2d4b5370064f4c94e0c7711fc5e2a7d176d020ab54e55ef2"
 

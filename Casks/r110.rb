@@ -1,6 +1,6 @@
 cask "r110" do
   version "0.1.0"
-  sha256 "77637602a17aaa3fe00c0ac9e8bdcb0a340b07c1c6c3eacf062d143ec6a9175e"
+  sha256 "b6929f069b44e39461d4049711e79db5adaf7aa2cd95fdbe237d3052c312918e"
 
   url "https://github.com/alvinashiatey/R110/releases/download/v#{version}/R110_#{version}_aarch64.dmg"
   name "R110"

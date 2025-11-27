@@ -1,6 +1,6 @@
 cask "lowres" do
   version "0.1.0"
-  sha256 "afe0263100c88f2b73213771b90c7f8df3ba73396425069e0a98ba5ecf4c3637"
+  sha256 "57744f926aaf472f2d4b5370064f4c94e0c7711fc5e2a7d176d020ab54e55ef2"
 
   url "https://github.com/alvinashiatey/lowres/releases/download/v#{version}/lowres_#{version}_aarch64.dmg"
   name "lowres"

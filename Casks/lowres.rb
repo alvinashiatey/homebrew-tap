@@ -1,4 +1,4 @@
-cask "videotoriso" do
+cask "lowres" do
   version "0.1.0"
   sha256 "01a3f45e8b3decf91eab9d108a4f123cf909b07cdc6391a30baf45753dfae841"
 

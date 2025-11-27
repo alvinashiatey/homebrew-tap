@@ -1,8 +1,8 @@
 cask "lowres" do
   version "0.1.0"
-  sha256 "0f9f22e1191a4b001c8756729a06035aaff4830f9095631e8e67f0d1befd7d03"
+  sha256 "afe0263100c88f2b73213771b90c7f8df3ba73396425069e0a98ba5ecf4c3637"
 
-  url "https://github.com/alvinashiatey/lowres/releases/download/app-v#{version}/lowres_#{version}_aarch64.dmg"
+  url "https://github.com/alvinashiatey/lowres/releases/download/v#{version}/lowres_#{version}_aarch64.dmg"
   name "lowres"
   desc "Reduce image resolution and file size"
   homepage "https://github.com/alvinashiatey/lowres"

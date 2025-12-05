@@ -1,6 +1,6 @@
 cask "videotoriso" do
-  version "0.2.0"
-  sha256 "0b768eb573485bd4f89e34eb1e9e2984ac08e53ee1dec935f5b15fa4ae8feb44"
+  version "0.2.1"
+  sha256 "dbf8d26ef955bb1a75790dfd2a58ba9038c2af80a8b53197b817ebe86a901af3"
 
   url "https://github.com/alvinashiatey/videoToRISO/releases/download/v#{version}/VideoToRISO.zip"
   name "VideoToRISO"
